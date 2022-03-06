@@ -1,0 +1,21 @@
+### Projet UNITY ###
+
+Nom et prénom : Liza BOUMALI
+
+### Implémentation ###
+
+- Une scène qui va comporter tout nnos GameObjects.
+- Un gameObject spaceship qui sera le pion du jeu.
+- Fonctionalités de bouger le spaceship avec le clavier.
+- Ajout d'obstacles (astéroides).
+- La destruction du spaceship (les colisions) dès qu'il est en contact avec l'asteroid en premier lieu.
+- Ensuite, l'implémentation d'un système de vie pour rajouter du challenge et faire durer la partie plus longtemps.
+- Score.
+
+### Tests ###
+L'application a été testée sur Unity et sur un smartphone Android.
+
+
+### Ce qui ne marche pas ###
+- Tentative d'implémentation d'un système de scoring. Mais le score ne s'affiche pas sur la scène.
+- Tentative d'ajout de gestion des commande via un joystick virtuel.
